@@ -1,2 +1,3 @@
 # Recriando-p-gina-do-instagram
-aula
+
+Projeto para recriar a página do Isntagram
